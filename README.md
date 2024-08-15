@@ -141,6 +141,7 @@ We should focus on Product Availability as a first priority since 24% of respond
 Branding and taste will be second and third priority since our brand had solid performance with branding (overall sentiment score: 488) which is indicating positive status and taste experience avg rating (3.28).
 
 
+
 **RECOMMENDATIONS**
 
 **1. Product Improvements**
@@ -155,7 +156,8 @@ Branding and taste will be second and third priority since our brand had solid p
 Based on the data, the ideal pricing strategy should focus on the 50-150 range, which appears to be the sweet spot for most consumers. Offering products in this price range is likely to attract the widest customer base across various cities.
 
 **3. Program/Campaign/Discount/Offer**
-* **Marketing Channel/Platform:** To optimize our marketing efforts and reach a larger audience, we should prioritize investment in online ads and TV commercials, as these channels demonstrate the greatest potential for customer engagement and reach.
+* **Marketing Channel/Platform**
+  * To optimize our marketing efforts and reach a larger audience, we should prioritize investment in online ads and TV commercials, as these channels demonstrate the greatest potential for customer engagement and reach.
 * **Marketing Campaign**
   * Enhance Fitness Market Penetration: Develop targeted marketing campaigns aimed at fitness enthusiasts. Collaborations with gyms, sports events, and fitness influencers can solidify the brand's presence in this sector.
   * Target Students and Working Professionals: Highlight the benefits of energy drinks for students and professionals through advertising that focuses on mental alertness and endurance. This can be further supported by partnerships with educational institutions and coworking spaces.
