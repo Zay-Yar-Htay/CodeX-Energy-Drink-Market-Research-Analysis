@@ -1,4 +1,4 @@
-# CodeX Energy Drink Market Research Analysis
+![image](https://github.com/user-attachments/assets/c3647214-71b3-4e21-94c0-adf0a288612b)![image](https://github.com/user-attachments/assets/cf9fa050-e92e-4755-a041-56fd6577370d)# CodeX Energy Drink Market Research Analysis
 
 ## Table Of Contents
 
@@ -62,7 +62,7 @@ This project was executed in two versions, I employed two distinct toolsets to a
 * Which area of business should we focus more on our product development? (Branding/taste/availability)
 
 ## Insights and Recommendation
-**Insights**
+**INSIGHTS**
 
 **1. Who prefers energy drinks more?**
 
@@ -129,6 +129,49 @@ Supermarkets are the most popular choice, with 45% of respondents preferring thi
 **12. What are the typical consumption situations for energy drinks among respondents?**
 
 Most consumers drink energy drinks during sport or exercise with 45% while a significant number of consumer use energy drinks to stay awake when studying or working late with 32%. This insights show that a strong association of energy drinks with physical activity and fitness routines. There is also a significant market segment seeking products to use energy drinks to stay alert when studying or working late.
+
+**13. What factors influence respondents' purchase decisions, such as price range and limited edition packaging?**
+
+Price range significantly influences purchase decisions, with the $50-$99 range being the most popular. Limited edition packaging preferences are more evenly distributed, with a slight majority indicating a preference for standard packaging.
+
+
+**14. Which area of business should we focus more on our product development? (Branding/taste/availability)**
+
+We should focus on Product Availability as a first priority since 24% of respondents (2431) mentioned that the product is not available locally. Improving distribution and ensuring that the product is more widely available can directly address a significant barrier to purchase.
+Branding and taste will be second and third priority since our brand had solid performance with branding (overall sentiment score: 488) which is indicating positive status and taste experience avg rating (3.28).
+
+**RECOMMENDATIONS**
+**1. Product Improvements**
+* **Availability:** We should focus on Product Availability as a first priority since 24% of respondents (2431) mentioned that the product is not available locally. Improving distribution and ensuring that the product is more widely available can directly address a significant barrier to purchase.
+* **Brand Reputation and Taste:** Our product faces challenges in brand reputation and taste, with consumers often opting for competitors that they perceive as offering better flavor and stronger brand identities. To improve, we should focus on making our flavor better and building a stronger brand through marketing. This could help us win more customers and increase their market share.
+
+**2. Ideal Price**
+* **Price Range 50-99:** This range is the most popular among consumers, especially in cities like Bangalore, Hyderabad, and Mumbai.
+* **Price Range 100-150:** The next preferred range is 100-150, with many customers in major cities willing to pay this price.
+* **Above 150 and Below 50:** These price ranges are less popular, suggesting that only a smaller group of customers are interested in these extremes.
+Based on the data, the ideal pricing strategy should focus on the 50-150 range, which appears to be the sweet spot for most consumers. Offering products in this price range is likely to attract the widest customer base across various cities.
+
+**3. Program/Campaign/Discount/Offer**
+* **Marketing Channel/Platform:** To optimize our marketing efforts and reach a larger audience, we should prioritize investment in online ads and TV commercials, as these channels demonstrate the greatest potential for customer engagement and reach.
+* **Marketing Campaign**
+  * Enhance Fitness Market Penetration: Develop targeted marketing campaigns aimed at fitness enthusiasts. Collaborations with gyms, sports events, and fitness influencers can solidify the brand's presence in this sector.
+  * Target Students and Working Professionals: Highlight the benefits of energy drinks for students and professionals through advertising that focuses on mental alertness and endurance. This can be further supported by partnerships with educational institutions and coworking spaces.
+* **Discount**
+* **City-Specific Offers:** Tailor discounts to the popular price ranges in each city, like volume discounts or loyalty rewards.
+* **Age Group-Specific Promotions:** Target different age groups with offers like student discounts or family packs.
+* **Specialized Campaigns:** Run special deals like Budget-Friendly for lower prices or Flash Sales for higher prices to appeal to various customers.
+
+**4. Target Market (Auidiance,Area)**
+* **Auidiance:** Our main target should be the 19-30 age group because of their numbers and influence. The 31-45 age group should also be a focus for products that meet their needs. Engaging with the 15-18 age group for brand building and future growth is also advisable.  The 46-65 and 65+ age groups could be targeted with specific products or campaigns that align with their unique needs.
+* **City:**
+Our strategic marketing focus should be on Lucknow, Jaipur, Ahmedabad, Kolkata, and Pune. These cities exhibit both low brand awareness and low trial rates, presenting opportunities for growth through targeted marketing and promotional efforts. By addressing these gaps, we can enhance our market presence and drive higher conversion rates from awareness to consumption.
+
+**5. Purchase Channel/Location**
+Supermarkets are the most popular place for buying energy drinks, but the notable preference for online retailers highlights an essential area for growth.
+To take advantage of this, we should:
+* **Improve our online presence:** Focus on digital marketing and work with major online stores to reach more customers.
+* **Keep our supermarket presence strong:** Make sure our products stand out on shelves and offer promotions to maintain our market share.
+* **Partner with gyms and fitness centers:** Collaborate with gym to promote our brand to people who care about fitness.
 
 
 
