@@ -137,8 +137,8 @@ Price range significantly influences purchase decisions, with the $50-$99 range 
 
 **14. Which area of business should we focus more on our product development? (Branding/taste/availability)**
 
-We should focus on Product Availability as a first priority since 24% of respondents (2431) mentioned that the product is not available locally. Improving distribution and ensuring that the product is more widely available can directly address a significant barrier to purchase.
-Branding and taste will be second and third priority since our brand had solid performance with branding (overall sentiment score: 488) which is indicating positive status and taste experience avg rating (3.28).
+* We should focus on Product Availability as a first priority since 24% of respondents (2431) mentioned that the product is not available locally. Improving distribution and ensuring that the product is more widely available can directly address a significant barrier to purchase.
+* Branding and taste will be second and third priority since our brand had solid performance with branding (overall sentiment score: 488) which is indicating positive status and taste experience avg rating (3.28).
 
 
 
