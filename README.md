@@ -61,6 +61,17 @@ This project was executed in two versions, I employed two distinct toolsets to a
 **7. Product Development**
 * Which area of business should we focus more on our product development? (Branding/taste/availability)
 
+
+## Visualization
+![Report Home Page](https://github.com/user-attachments/assets/b7feacf5-3fb6-4ef5-9473-3309d0bd338f)
+![Demographics Insights](https://github.com/user-attachments/assets/c541f002-10e2-452c-9fca-11b2a415fe9c)
+![Consumption Habbit Insights](https://github.com/user-attachments/assets/5b22ca41-3728-43a3-af28-57951cd7a2ab)
+
+
+
+
+
+
 ## Insights and Recommendation
 **INSIGHTS**
 
