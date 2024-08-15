@@ -167,6 +167,7 @@ Based on the data, the ideal pricing strategy should focus on the 50-150 range, 
 Our strategic marketing focus should be on Lucknow, Jaipur, Ahmedabad, Kolkata, and Pune. These cities exhibit both low brand awareness and low trial rates, presenting opportunities for growth through targeted marketing and promotional efforts. By addressing these gaps, we can enhance our market presence and drive higher conversion rates from awareness to consumption.
 
 **5. Purchase Channel/Location**
+
 Supermarkets are the most popular place for buying energy drinks, but the notable preference for online retailers highlights an essential area for growth.
 To take advantage of this, we should:
 * **Improve our online presence:** Focus on digital marketing and work with major online stores to reach more customers.
