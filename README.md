@@ -63,7 +63,7 @@ This project was executed in two versions, I employed two distinct toolsets to a
 
 ## Visualization
 ![Report Home Page](https://github.com/user-attachments/assets/dd9cb186-c337-4a5c-9229-f7e29fa764f1)
-![Demographics](https://github.com/user-attachments/assets/8bbd81aa-00ed-4956-80c3-80a7532af73d)
+![Demographics](https://github.com/user-attachments/assets/44508f5b-358e-4545-937e-30888c48a057)
 ![Consumption Habbit](https://github.com/user-attachments/assets/1cf4a1e4-d6e3-44d0-8592-29485de3699d)
 ![Consumer Preferences](https://github.com/user-attachments/assets/d2d595a4-76d4-4402-92ad-8e2a929f6bcd)
 ![Brand Analysis](https://github.com/user-attachments/assets/8b50041d-bf33-4211-837b-206b3f72e5ef)
