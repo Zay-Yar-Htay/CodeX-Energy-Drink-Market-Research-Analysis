@@ -61,6 +61,44 @@ This project was executed in two versions, I employed two distinct toolsets to a
 **7. Product Development**
 * Which area of business should we focus more on our product development? (Branding/taste/availability)
 
+## Insights and Recommendation
+**Insights**
+
+**1. Who prefers energy drinks more?**
+
+The gender who prefer the energy drink most is Males with over 60%, followed by females with 35% of overall respondents.
+
+**2. Which age group prefers energy drinks more?**
+
+Most energy drink fans are young adult age of between 19-30 with 55%, and it making up over half of our total respondents, following closely by age group 31-45 with 24%.
+
+**3. Which type of marketing reaches the most Youth (15-30)?**
+
+The online ads are the most effective at reaching and engaging with the youth (age group 15-30) with 40%, follow by TV commercials with 27%.
+
+**4. What are the preferred ingredients of energy drinks among respondents?**
+
+39% of respondents prefer Caffeine, making it the most popular ingredient among consumers, follow by Vitamins with 25%. This fact shows that consumers enjoy the energy boost from Caffeine and the health benefits from Vitamins.
+
+**5. What packaging preferences do respondents have for energy drinks?**
+
+Compact and portable cans are the most popular choice, closely followed by Innovative bottle design. The result shows that consumer value convenience and creativity in packaging.
+
+**6. Who are the current market leaders?**
+
+Cola-Coka, Bepsi, and Gangster as the leading brands in the energy drink market, with Cola-Coka holding the top position and indicating its strong brand recognition and consumer preference.
+980 respondents prefer our brand and showing moderate popularity among respondents.
+
+**7. What are the primary reasons consumers prefer those brands over ours?**
+
+Brand reputation is the primary reason for preferring other brands over ours and consumer opt competitors for tase and availability reasons as well.
+* **Brand Reputation**
+Cola-Coka leads significantly with the highest brand reputation score (616 Respondents), followed by Bepsi (577) and Gangster (511). CodeX is close to the top with respondents of 259, indicating a strong market presence but still trailing behind the leading brands.
+* **Taste/Flavor Preference**
+Cola-Coka leads in taste preference with total respondents (531), highlighting its strong flavor profile as a key consumer attraction.
+Bepsi follows closely with respondents (423) , while Blue Bull has a significant taste preference at respondents (357). CodeX, with total respondents of 182, lags behind, particularly in comparison to Cola-Coka, Bepsi, and Blue Bull, suggesting that taste might be a critical area for improvement.
+* **Availability**
+Bepsi (339) and Cola-Coka (433) are perceived as highly available, while our brand with respondents of 176, needs to improve distribution to match our competitors' market penetration.
 
 
 
