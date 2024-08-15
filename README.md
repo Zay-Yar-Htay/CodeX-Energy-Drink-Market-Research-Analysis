@@ -100,6 +100,42 @@ Bepsi follows closely with respondents (423) , while Blue Bull has a significant
 * **Availability**
 Bepsi (339) and Cola-Coka (433) are perceived as highly available, while our brand with respondents of 176, needs to improve distribution to match our competitors' market penetration.
 
+**8. Which marketing channel can be used to reach more customers? And How effective are different marketing strategies and channels in reaching our customers?**
+
+Online advertising is the most effective marketing channel, engaging 40% of respondents. 
+TV commercials are the second most impactful channel, reaching 27% of respondents. 
+Outdoor billboards and other marketing strategies each capture 12% of the audience. 
+Print media is the least effective, reaching only 8% of respondents.
+
+**9. What do people think about our brand? (overall rating)**
+
+Taste Experience Rating
+Our product's taste has an average rating of 3.28, with scores ranging from 1 to 5. This indicating that while some consumers find our product satisfactory, others believe there is significant room for improvement.
+Brand Perception
+Out of the total respondents, 1,769 (approximately 18%) expressed a negative perception of our brand, while 22% have a positive perception. However, the majority 5,974 respondents (about 60%) remain neutral in their perception of our brand.
+
+**10. Which cities do we need to focus more on?**
+
+* **Cities with Low Brand Awareness**
+   * Lucknow: Only 85 individuals reported being aware of CodeX, indicating minimal brand presence.
+   * Jaipur: Awareness is also low, with 144 individuals knowing the brand.
+   * Ahmedabad: CodeX is recognized by 207 people, which is suboptimal for market growth.
+   * Kolkata: Awareness stands at 210, suggesting room for improvement.
+* **Cities with Low Product Trials**
+   * Pune: With only 20 individuals having tried CodeX, this city shows a significant gap between awareness and consumption.
+   * Lucknow: 24 individuals have tried the product, highlighting a need for increased engagement.
+   * Delhi: Only 25 people have consumed CodeX, indicating a potential disconnect between awareness and trial.
+   * Jaipur: The trial number is low, with only 43 individuals consuming CodeX, suggesting untapped potential.
+
+**11. Where do respondents prefer to purchase energy drinks?**
+
+Supermarkets are the most popular choice, with 45% of respondents preferring this option and Online retailers follow, chosen by 26% of respondents, indicating a strong trend towards online shopping. Also, Gyms and fitness centers are preferred by 15% of respondents, showing convenience for fitness enthusiasts.
+
+**12. What are the typical consumption situations for energy drinks among respondents?**
+
+Most consumers drink energy drinks during sport or exercise with 45% while a significant number of consumer use energy drinks to stay awake when studying or working late with 32%. This insights show that a strong association of energy drinks with physical activity and fitness routines. There is also a significant market segment seeking products to use energy drinks to stay alert when studying or working late.
+
+
 
 
 
