@@ -3,7 +3,7 @@
 ## Table Of Contents
 
 1. [Project Overview](#project-overview)
-2. [Tools & Methodologies](#tools-&-methodologies)
+2. [Tools and Methodologies](#tools-and-methodologies)
 3. [Business Questions](#business-questions)
 4. [Visualization](#visualization)
 5. [Insights and Recommendation](#insights-and-recommendation)
@@ -18,7 +18,7 @@ The dataset comprises two dimension tables (dim_respondents, dim_cities) and one
 This project aimed to derive actionable insights that could guide codeX's marketing strategy, product development, and market positioning efforts in the Indian market. The analysis focused on identifying key factors influencing consumer preferences, uncovering barriers to trial, and exploring opportunities for brand differentiation and packaging innovation.
 
 
-## Tools & Methodologies
+## Tools and Methodologies
 This project was executed in two versions, I employed two distinct toolsets to analyze the dataset and generate actionable insights comprehensively in this project.
 
 **Version 1: Excel**
@@ -28,27 +28,27 @@ This project was executed in two versions, I employed two distinct toolsets to a
 **Reporting & Visualization:** Interactive reports were created within Excel, offering dynamic data filtering and visualization options. These reports enabled users to engage with the data and derive insights directly from the visualizations.
 
 ## Business Questions
-1. Demographic Insights (examples)
+**1. Demographic Insights**
 * Who prefers energy drinks more? (male/female/non-binary?)
 * Which age group prefers energy drinks more?
 * Which type of marketing reaches the most Youth (15-30)?
-2. Consumer Preferences:
+**2. Consumer Preferences**
 * What are the preferred ingredients of energy drinks among respondents?
 * What packaging preferences do respondents have for energy drinks?
-3. Competition Analysis:
+**3. Competition Analysis**
 * Who are the current market leaders?
 * What are the primary reasons consumers prefer those brands over ours?
-4. Marketing Channels and Brand Awareness:
+**4. Marketing Channels and Brand Awareness**
 * Which marketing channel can be used to reach more customers?
 * How effective are different marketing strategies and channels in reaching our customers?
-5. Brand Penetration:
+**5. Brand Penetration**
 * What do people think about our brand? (overall rating)
 * Which cities do we need to focus more on?
-6. Purchase Behavior:
+**6. Purchase Behavior**
 * Where do respondents prefer to purchase energy drinks?
 * What are the typical consumption situations for energy drinks among respondents?
 * What factors influence respondents' purchase decisions, such as price range and limited edition packaging?
-7. Product Development
+**7. Product Development**
 * Which area of business should we focus more on our product development? (Branding/taste/availability)
 
 
