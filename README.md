@@ -1,4 +1,4 @@
-![Competitor Analysis](https://github.com/user-attachments/assets/f7db8234-2390-4f33-8d31-f6e76003f2f1)# CodeX Energy Drink Market Research Analysis
+# CodeX Energy Drink Market Research Analysis
 
 ## Table Of Contents
 
