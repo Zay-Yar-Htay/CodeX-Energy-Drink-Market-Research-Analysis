@@ -92,27 +92,22 @@ Cola-Coka, Bepsi, and Gangster as the leading brands in the energy drink market,
 **7. What are the primary reasons consumers prefer those brands over ours?**
 
 Brand reputation is the primary reason for preferring other brands over ours and consumer opt competitors for tase and availability reasons as well.
-* **Brand Reputation**
-Cola-Coka leads significantly with the highest brand reputation score (616 Respondents), followed by Bepsi (577) and Gangster (511). CodeX is close to the top with respondents of 259, indicating a strong market presence but still trailing behind the leading brands.
-* **Taste/Flavor Preference**
-Cola-Coka leads in taste preference with total respondents (531), highlighting its strong flavor profile as a key consumer attraction.
+* **Brand Reputation:** Cola-Coka leads significantly with the highest brand reputation score (616 Respondents), followed by Bepsi (577) and Gangster (511). CodeX is close to the top with respondents of 259, indicating a strong market presence but still trailing behind the leading brands.
+* **Taste/Flavor Preference:** Cola-Coka leads in taste preference with total respondents (531), highlighting its strong flavor profile as a key consumer attraction.
 Bepsi follows closely with respondents (423) , while Blue Bull has a significant taste preference at respondents (357). CodeX, with total respondents of 182, lags behind, particularly in comparison to Cola-Coka, Bepsi, and Blue Bull, suggesting that taste might be a critical area for improvement.
-* **Availability**
-Bepsi (339) and Cola-Coka (433) are perceived as highly available, while our brand with respondents of 176, needs to improve distribution to match our competitors' market penetration.
+* **Availability:** Bepsi (339) and Cola-Coka (433) are perceived as highly available, while our brand with respondents of 176, needs to improve distribution to match our competitors' market penetration.
 
 **8. Which marketing channel can be used to reach more customers? And How effective are different marketing strategies and channels in reaching our customers?**
 
-Online advertising is the most effective marketing channel, engaging 40% of respondents. 
-TV commercials are the second most impactful channel, reaching 27% of respondents. 
-Outdoor billboards and other marketing strategies each capture 12% of the audience. 
-Print media is the least effective, reaching only 8% of respondents.
+* Online advertising is the most effective marketing channel, engaging 40% of respondents. 
+* TV commercials are the second most impactful channel, reaching 27% of respondents. 
+* Outdoor billboards and other marketing strategies each capture 12% of the audience. 
+* Print media is the least effective, reaching only 8% of respondents.
 
 **9. What do people think about our brand? (overall rating)**
 
-Taste Experience Rating
-Our product's taste has an average rating of 3.28, with scores ranging from 1 to 5. This indicating that while some consumers find our product satisfactory, others believe there is significant room for improvement.
-Brand Perception
-Out of the total respondents, 1,769 (approximately 18%) expressed a negative perception of our brand, while 22% have a positive perception. However, the majority 5,974 respondents (about 60%) remain neutral in their perception of our brand.
+* **Taste Experience Rating:** Our product's taste has an average rating of 3.28, with scores ranging from 1 to 5. This indicating that while some consumers find our product satisfactory, others believe there is significant room for improvement.
+* **Brand Perception:** Out of the total respondents, 1,769 (approximately 18%) expressed a negative perception of our brand, while 22% have a positive perception. However, the majority 5,974 respondents (about 60%) remain neutral in their perception of our brand.
 
 **10. Which cities do we need to focus more on?**
 
