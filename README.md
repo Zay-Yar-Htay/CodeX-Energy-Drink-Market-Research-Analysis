@@ -149,6 +149,7 @@ Branding and taste will be second and third priority since our brand had solid p
 * **Price Range 50-99:** This range is the most popular among consumers, especially in cities like Bangalore, Hyderabad, and Mumbai.
 * **Price Range 100-150:** The next preferred range is 100-150, with many customers in major cities willing to pay this price.
 * **Above 150 and Below 50:** These price ranges are less popular, suggesting that only a smaller group of customers are interested in these extremes.
+
 Based on the data, the ideal pricing strategy should focus on the 50-150 range, which appears to be the sweet spot for most consumers. Offering products in this price range is likely to attract the widest customer base across various cities.
 
 **3. Program/Campaign/Discount/Offer**
@@ -157,9 +158,9 @@ Based on the data, the ideal pricing strategy should focus on the 50-150 range, 
   * Enhance Fitness Market Penetration: Develop targeted marketing campaigns aimed at fitness enthusiasts. Collaborations with gyms, sports events, and fitness influencers can solidify the brand's presence in this sector.
   * Target Students and Working Professionals: Highlight the benefits of energy drinks for students and professionals through advertising that focuses on mental alertness and endurance. This can be further supported by partnerships with educational institutions and coworking spaces.
 * **Discount**
-* **City-Specific Offers:** Tailor discounts to the popular price ranges in each city, like volume discounts or loyalty rewards.
-* **Age Group-Specific Promotions:** Target different age groups with offers like student discounts or family packs.
-* **Specialized Campaigns:** Run special deals like Budget-Friendly for lower prices or Flash Sales for higher prices to appeal to various customers.
+  * **City-Specific Offers:** Tailor discounts to the popular price ranges in each city, like volume discounts or loyalty rewards.
+  * **Age Group-Specific Promotions:** Target different age groups with offers like student discounts or family packs.
+  * **Specialized Campaigns:** Run special deals like Budget-Friendly for lower prices or Flash Sales for higher prices to appeal to various customers.
 
 **4. Target Market (Auidiance,Area)**
 * **Auidiance:** Our main target should be the 19-30 age group because of their numbers and influence. The 31-45 age group should also be a focus for products that meet their needs. Engaging with the 15-18 age group for brand building and future growth is also advisable.  The 46-65 and 65+ age groups could be targeted with specific products or campaigns that align with their unique needs.
