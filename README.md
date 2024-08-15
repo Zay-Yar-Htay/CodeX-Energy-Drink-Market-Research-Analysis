@@ -10,7 +10,6 @@
 
 
 ## Project Overview
-Version 1
 This project focuses on analyzing consumer behavior towards an energy drink recently launched by codeX, a German beverage company, in 10 major cities across India. The dataset, provided by Code Basic, includes responses from 10,000 participants, capturing their preferences, perceptions, and purchasing behavior related to the energy drink.
 
 The dataset comprises two dimension tables (dim_respondents, dim_cities) and one fact table (fact_survey_responses). The dim_respondents table records individual respondent details such as age, gender, and city of residence. The dim_cities table categorizes cities based on their tier, while the fact_survey_responses table captures various aspects of consumer behavior, including consumption patterns, brand perception, purchase preferences, etc...
