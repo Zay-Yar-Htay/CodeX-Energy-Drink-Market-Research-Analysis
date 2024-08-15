@@ -22,6 +22,7 @@ This project aimed to derive actionable insights that could guide codeX's market
 This project was executed in two versions, I employed two distinct toolsets to analyze the dataset and generate actionable insights comprehensively in this project.
 
 **Version 1: Excel**
+
 **Data Profiling & Exploration:** Excel was employed for initial data exploration, enabling quick identification of data quality issues, such as missing values and outliers. This step ensured a clear understanding of the dataset before further analysis.
 
 **Data Pre-processing:** Using Power Query and Excel's robust set of functions, the data was cleaned, transformed, and prepared for analysis. This involved handling inconsistencies, replacing values, converting values such as data decoding (converting quantitative to categorical transformation), and mapping.
