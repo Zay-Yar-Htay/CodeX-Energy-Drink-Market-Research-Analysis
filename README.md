@@ -61,7 +61,7 @@ This project was executed in two versions, I employed two distinct toolsets to a
 * Which area of business should we focus more on our product development? (Branding/taste/availability)
 
 
-## Visualization
+## Visualizations
 ![Report Home Page](https://github.com/user-attachments/assets/bcedc194-d023-4744-bec5-6dbf1878df53)
 ![Demographics](https://github.com/user-attachments/assets/4ed01022-95a0-4056-981f-45dee7fbaa86)
 ![Consumption Habbit](https://github.com/user-attachments/assets/8a45181a-de89-4155-833f-46467e8c7593)
@@ -76,7 +76,7 @@ This project was executed in two versions, I employed two distinct toolsets to a
 ![Conclusion Page 4](https://github.com/user-attachments/assets/cb845836-3eb6-4082-9f09-417e7f3ecbb1)
 
 
-## Insights and Recommendation
+## Insights and Recommendations
 **INSIGHTS**
 
 **1. Who prefers energy drinks more?**
