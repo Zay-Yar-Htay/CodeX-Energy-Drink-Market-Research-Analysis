@@ -1,4 +1,4 @@
-# CodeX Energy Drink Market Research Analysis
+![Demographics](https://github.com/user-attachments/assets/314dc3d2-593a-47fe-9334-6d4d8caf01bd)# CodeX Energy Drink Market Research Analysis
 
 ## Table Of Contents
 
@@ -62,22 +62,18 @@ This project was executed in two versions, I employed two distinct toolsets to a
 
 
 ## Visualization
-![Report Home Page](https://github.com/user-attachments/assets/dd9cb186-c337-4a5c-9229-f7e29fa764f1)
-![Demographics](https://github.com/user-attachments/assets/44508f5b-358e-4545-937e-30888c48a057)
-![Consumption Habbit](https://github.com/user-attachments/assets/1cf4a1e4-d6e3-44d0-8592-29485de3699d)
-![Consumer Preferences](https://github.com/user-attachments/assets/d2d595a4-76d4-4402-92ad-8e2a929f6bcd)
-![Brand Analysis](https://github.com/user-attachments/assets/8b50041d-bf33-4211-837b-206b3f72e5ef)
-![Marketing   Brand Awareness](https://github.com/user-attachments/assets/d427f458-0121-40e9-82da-b2351543fadf)
-![Competitor Analysis](https://github.com/user-attachments/assets/1388d4a0-5f5d-47f6-9096-a8a2654c1f12)
-![Purchase Behaviour](https://github.com/user-attachments/assets/b2d6811c-39e4-4111-877e-3ae09005d6e7)
-![Conclusion Page 1](https://github.com/user-attachments/assets/10a6089f-16e6-4fc8-8c9b-b7ff5fb62092)
-![Conclusion Page 2](https://github.com/user-attachments/assets/8ac056fa-af75-4ba6-aa74-989ade2332dc)
-![Conclusion Page 3](https://github.com/user-attachments/assets/2c684718-06c6-4745-88ee-a1f6d021406f)
-![Conclusion Page 4](https://github.com/user-attachments/assets/d2e0d631-c5b2-45fa-aade-f8c96045aee4)
-
-
-
-
+![Report Home Page](https://github.com/user-attachments/assets/bcedc194-d023-4744-bec5-6dbf1878df53)
+![Demographics](https://github.com/user-attachments/assets/4ed01022-95a0-4056-981f-45dee7fbaa86)
+![Consumption Habbit](https://github.com/user-attachments/assets/8a45181a-de89-4155-833f-46467e8c7593)
+![Consumer Preferences](https://github.com/user-attachments/assets/e6e9fd8a-8ed8-4c2e-9a1c-089a0ae45cab)
+![Brand Analysis](https://github.com/user-attachments/assets/bf71b31b-1148-46ea-ae2a-a9f7e5d11bf9)
+![Marketing   Brand Awareness](https://github.com/user-attachments/assets/4edc0570-2efb-459c-bf69-1e54e6a6becd)
+![Competitor Analysis](https://github.com/user-attachments/assets/f1035c80-ee5b-4e04-99e3-90652d6e7e89)
+![Purchase Behaviour](https://github.com/user-attachments/assets/763c0596-89fd-4011-9a53-98ba46fbb371)
+![Conclusion Page 1](https://github.com/user-attachments/assets/2da03a14-2716-452a-b56b-97e7d1fb9413)
+![Conclusion Page 2](https://github.com/user-attachments/assets/dd40552f-8e72-461f-b6e9-26dfe80ed795)
+![Conclusion Page 3](https://github.com/user-attachments/assets/5ff10138-e4f6-4f87-b759-383f42f75567)
+![Conclusion Page 4](https://github.com/user-attachments/assets/cb845836-3eb6-4082-9f09-417e7f3ecbb1)
 
 
 ## Insights and Recommendation
