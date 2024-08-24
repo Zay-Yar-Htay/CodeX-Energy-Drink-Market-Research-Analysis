@@ -18,17 +18,15 @@ This project aimed to derive actionable insights that could guide codeX's market
 
 
 ## Tools and Methodologies
-This project was executed in two versions, I employed two distinct toolsets to analyze the dataset and generate actionable insights comprehensively in this project.
+To effectively manage, and analyze the survey response data from 10,000 participants to uncover valuable insights, I utilized Excel for data profiling, pre-processing, analyzing, and developing interactive reports. Below is a detailed breakdown of how the tool was employed throughout the project.
 
-**Version 1: Excel**
+* **Data Profiling & Exploration:** Excel was employed for initial data exploration, enabling quick identification of data quality issues, such as missing values and outliers. This step ensured a clear understanding of the dataset before further analysis.
 
-**Data Profiling & Exploration:** Excel was employed for initial data exploration, enabling quick identification of data quality issues, such as missing values and outliers. This step ensured a clear understanding of the dataset before further analysis.
+* **Data Pre-processing:** Using Power Query and Excel's robust set of functions, the data was cleaned, transformed, and prepared for analysis. This involved handling inconsistencies, replacing values, converting values such as data decoding (converting quantitative to categorical transformation), and mapping.
 
-**Data Pre-processing:** Using Power Query and Excel's robust set of functions, the data was cleaned, transformed, and prepared for analysis. This involved handling inconsistencies, replacing values, converting values such as data decoding (converting quantitative to categorical transformation), and mapping.
+* **Data Analysis:** Conducted basic statistical analysis such as central tendency and employed pivot tables, charts, some lookup formulas, and functions to uncover patterns and trends in the data, allowing for a deep dive into consumer behavior, preferences, and product performance.
 
-**Data Analysis:** Conducted basic statistical analysis such as central tendency and employed pivot tables, charts, some lookup formulas, and functions to uncover patterns and trends in the data, allowing for a deep dive into consumer behavior, preferences, and product performance.
-
-**Reporting & Visualization:** Interactive reports were created within Excel, offering dynamic data filtering and visualization options. These reports enabled users to engage with the data and derive insights directly from the visualizations.
+* **Reporting & Visualization:** Interactive reports were created within Excel, offering dynamic data filtering and visualization options. These reports enabled users to engage with the data and derive insights directly from the visualizations.
 
 ## Business Questions
 **1. Demographic Insights**
