@@ -18,7 +18,7 @@ This project aimed to derive actionable insights that could guide codeX's market
 
 
 ## Tools and Methodologies
-To effectively manage, and analyze the survey response data from 10,000 participants to uncover valuable insights, I utilized Excel for data profiling, pre-processing, analyzing, and developing interactive reports. Below is a detailed breakdown of how the tool was employed throughout the project.
+To effectively manage, analyze, and uncover the valuable insights from the 10,000 participants' survey response data, I utilized Excel for data profiling, pre-processing, analyzing, and developing interactive reports. Below is a detailed breakdown of how the tool was employed throughout the project.
 
 * **Data Profiling & Exploration:** Excel was employed for initial data exploration, enabling quick identification of data quality issues, such as missing values and outliers. This step ensured a clear understanding of the dataset before further analysis.
 
