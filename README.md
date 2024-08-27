@@ -61,7 +61,7 @@ To effectively manage, analyze, and uncover the valuable insights from the 10,00
 
 
 ## Visualizations
-[Report Link](https://1drv.ms/x/c/7c0db0bbeba27f0e/EQhFZsRjdulIilxZo3EaKGUB5Rjy770N1Ohd0zfDPRduTg?e=IHF6Eu), [Link 2](https://1drv.ms/x/c/7c0db0bbeba27f0e/Ea6jU9AL7s1GolNBLVcQiD4BSUVepRC-3clAfHwJTpsfsw?e=ZPS6gJ)
+[Report Link](https://1drv.ms/x/c/7c0db0bbeba27f0e/ESgNQjOz3rVGkdwCs2bSqu0BP4_dsi1sNsvUflgKhxZFIw?e=1K675A)
 ![Report Home Page](https://github.com/user-attachments/assets/3806b8b8-557b-4b5a-886f-616d2b91f681)
 ![Demographics](https://github.com/user-attachments/assets/6eec110c-0cad-412c-8a4d-44dc172e6d93)
 ![Consumption Habbit](https://github.com/user-attachments/assets/dbf414ba-2834-4e70-aa2b-c309c713ccab)
