@@ -59,20 +59,22 @@ To effectively manage, analyze, and uncover the valuable insights from the 10,00
 * Which area of business should we focus more on our product development? (Branding/taste/availability)
 
 
+
 ## Visualizations
 [Report Link](https://1drv.ms/x/c/7c0db0bbeba27f0e/EQhFZsRjdulIilxZo3EaKGUB5Rjy770N1Ohd0zfDPRduTg?e=IHF6Eu)
-![Report Home Page](https://github.com/user-attachments/assets/bcedc194-d023-4744-bec5-6dbf1878df53)
-![Demographics](https://github.com/user-attachments/assets/4ed01022-95a0-4056-981f-45dee7fbaa86)
-![Consumption Habbit](https://github.com/user-attachments/assets/8a45181a-de89-4155-833f-46467e8c7593)
-![Consumer Preferences](https://github.com/user-attachments/assets/e6e9fd8a-8ed8-4c2e-9a1c-089a0ae45cab)
-![Brand Analysis](https://github.com/user-attachments/assets/bf71b31b-1148-46ea-ae2a-a9f7e5d11bf9)
-![Marketing   Brand Awareness](https://github.com/user-attachments/assets/4edc0570-2efb-459c-bf69-1e54e6a6becd)
-![Competitor Analysis](https://github.com/user-attachments/assets/f1035c80-ee5b-4e04-99e3-90652d6e7e89)
-![Purchase Behaviour](https://github.com/user-attachments/assets/763c0596-89fd-4011-9a53-98ba46fbb371)
-![Conclusion Page 1](https://github.com/user-attachments/assets/2da03a14-2716-452a-b56b-97e7d1fb9413)
-![Conclusion Page 2](https://github.com/user-attachments/assets/dd40552f-8e72-461f-b6e9-26dfe80ed795)
-![Conclusion Page 3](https://github.com/user-attachments/assets/5ff10138-e4f6-4f87-b759-383f42f75567)
-![Conclusion Page 4](https://github.com/user-attachments/assets/cb845836-3eb6-4082-9f09-417e7f3ecbb1)
+![Report Home Page](https://github.com/user-attachments/assets/3806b8b8-557b-4b5a-886f-616d2b91f681)
+![Demographics](https://github.com/user-attachments/assets/6eec110c-0cad-412c-8a4d-44dc172e6d93)
+![Consumption Habbit](https://github.com/user-attachments/assets/dbf414ba-2834-4e70-aa2b-c309c713ccab)
+![Consumer Preferences](https://github.com/user-attachments/assets/678c529a-986c-489d-b7cb-871a7a21a27b)
+![Marketing   Brand Awareness](https://github.com/user-attachments/assets/ed8d5d63-2b6f-464e-99fc-4d1e38e65c9e)
+![Brand Analysis](https://github.com/user-attachments/assets/3b1787c5-c101-4929-b983-2d73bfd9abf0)
+![Competitor Analysis](https://github.com/user-attachments/assets/0048b439-8e87-4abb-9ca5-dc71affa8c78)
+![Purchase Behaviour](https://github.com/user-attachments/assets/c6a5820a-2e9c-4138-9152-e64af9711c22)
+![Conclusion Page 1](https://github.com/user-attachments/assets/7db1aac8-f4c7-49bb-9afd-132b8d22f1b1)
+![Conclusion Page 2](https://github.com/user-attachments/assets/42ea326a-e713-419f-95cc-6911b10b2e01)
+![Conclusion Page 3](https://github.com/user-attachments/assets/867f8715-6176-4c1d-bc23-4da6e10feb38)
+![Conclusion Page 4](https://github.com/user-attachments/assets/2fa2279f-ff38-422d-a31e-0d09c209880b)
+
 
 
 ## Insights and Recommendations
